@@ -1,3 +1,5 @@
+##Reproducible Research - Week 2
+
 ## Loading and preprocessing the data
 unzip(zipfile = "activity.zip")
 data <- read.csv("activity.csv")
